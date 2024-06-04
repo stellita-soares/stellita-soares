@@ -1,6 +1,6 @@
-## Boas Vindas ao meu perfil 💜✨
+## Boas Vindas ao meu perfil 💜
 
-Meu nome é Stella Soares
+Meu nome é Stella Soares✨
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
